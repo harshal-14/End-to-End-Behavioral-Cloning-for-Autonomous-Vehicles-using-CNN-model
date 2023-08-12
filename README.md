@@ -39,21 +39,18 @@ Various augmentation techniques are applied to the collected data, including zoo
 Images are preprocessed through scaling and standardization operations to prepare them for input into the neural network.
 
 ##### Zoom Augmentation
-![Zoom Augmentation](images/zoom_augmentation.png)
-
-##### Pan Augmentation
-![Pan Augmentation](images/pan_augmentation.png)
+![Zoom Augmentation](images/Zoomed_Images.png)
 
 ##### Brightness Augmentation
-![Brightness Augmentation](images/brightness_augmentation.png)
+![Brightness and Pan Augmentation](images/brightness_adjusted_and_panned_image.png)
 
 ##### Flip Augmentation
-![Flip Augmentation](images/flip_augmentation.png)
+![Flip Augmentation](images/flipped_image.png)
 
 #### Data Preprocessing
 
 ##### Original vs. Preprocessed Images
-![Preprocessed Images](images/preprocessed_images.png)
+![Preprocessed Images](images/preprocessed_image.png)
 
 
 #### Training
